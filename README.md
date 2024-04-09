@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Este projeto do treiler dofilme Mario
+Este projeto do treiler do filme Mario
 
 ## 🚀 Tecnologias
 
