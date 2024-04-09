@@ -26,9 +26,6 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 - [x] Efeitos com a propriedade `transform` do css
 
 
-## 📝 Tema de casa
 
-- [ ] Criar responsividade
-- [ ] Adicionar efeito de hover nos botões
 
 
